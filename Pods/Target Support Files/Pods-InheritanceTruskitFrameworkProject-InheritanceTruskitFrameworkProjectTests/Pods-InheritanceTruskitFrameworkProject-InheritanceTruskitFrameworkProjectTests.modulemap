@@ -1,0 +1,6 @@
+framework module Pods_InheritanceTruskitFrameworkProject_InheritanceTruskitFrameworkProjectTests {
+  umbrella header "Pods-InheritanceTruskitFrameworkProject-InheritanceTruskitFrameworkProjectTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

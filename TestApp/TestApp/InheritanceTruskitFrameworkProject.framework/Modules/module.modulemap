@@ -1,0 +1,11 @@
+framework module InheritanceTruskitFrameworkProject {
+  umbrella header "InheritanceTruskitFrameworkProject.h"
+  export *
+
+  module * { export * }
+}
+
+module InheritanceTruskitFrameworkProject.Swift {
+  header "InheritanceTruskitFrameworkProject-Swift.h"
+  requires objc
+}
